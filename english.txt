@@ -1,0 +1,12 @@
+in this presentation we will try to find out the answer on the question what is bad eighty I think this what baddie is something that you are already familiar with because it is something which already often repeated in the digital electronic scores so let's move to it it is concept Riddick the errors added protection and its elimination is already Vaast field in the electronics and the the engineers and scientists constantly work on this field because of you the farm to the signal transmitted as it is and the receivers and we do what we wanted to start their signal and did as he was then sold the better it is one way to detect the letters .
+and the .
+it is only for the detection of a single bit data okay a single bit error is detected by it if there is an error in the two or more of it then definitely the body is not going to tell you about the error .
+because it is only for a single bit adder .
+no I will explain you'll does two things in our real quick time and let's move to it let's say this is our receivers and again this one is of a receiver at an odd ex and the yellow one these electrons meters .
+and .
+this is a world class meters then .
+and a signal is transmitted from this dude in different colors signal is transmitted from the transmitter to the receiver generally heavy make transmitter on this side but they made it so this no problem a signal is transmitted through this channel from the trust me to and then received by the receiver .
+let's say the signal is afford .
+it .
+signal .
+okay and the we know that in this channel there are so many factors that are there to affect distrust major signal so there are nicer than wine and because of that noise maybe see some bits changes from zero to one on one two zero we can say that .
